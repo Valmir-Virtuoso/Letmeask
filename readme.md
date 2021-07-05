@@ -5,13 +5,13 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/rocketseat-education/nlw-06-reactjs/d64687c482991f6796f56a335126cd658db7f53f/.github/cover.svg" alt="NLW Together 06" />
   
-  <img src="https://img.shields.io/github/stars/rocketseat-education/nlw-06-reactjs?label=stars&message=MIT&color=8257E5&labelColor=000000" alt="Stars">
+  <img src="https://camo.githubusercontent.com/44c6816fb8a9ba2852c6d1dc8f38260a88912099e85ac5da22c66cffa9d74bd1/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f726f636b6574736561742d656475636174696f6e2f6e6c772d30362d72656163746a733f6c6162656c3d7374617273266d6573736167653d4d495426636f6c6f723d383235374535266c6162656c436f6c6f723d303030303030" alt="Stars">
 
-  <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000" alt="License">   
+  <img  src="https://camo.githubusercontent.com/45d862ef64a7b27d57a2c0f741e005d2664bf4099a4fa4a7af23a7483f3f4376/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d6c6963656e7365266d6573736167653d4d495426636f6c6f723d383235374535266c6162656c436f6c6f723d303030303030" alt="License">   
 </p>
 
 <h1 align="center">
-    <img alt="Letmeask" src=".github/cover.svg" />
+    <img alt="Letmeask" src="https://github.com/rocketseat-education/nlw-06-reactjs/raw/master/.github/logo.svg" />
 </h1>
 
 <br>
